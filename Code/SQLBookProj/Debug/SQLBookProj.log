@@ -1,0 +1,8 @@
+﻿  DB.cpp
+  Source.cpp
+  Generating Code...
+DB.obj : error LNK2019: unresolved external symbol _mysql_error@4 referenced in function "void __cdecl SQLConnect(void)" (?SQLConnect@@YAXXZ)
+DB.obj : error LNK2019: unresolved external symbol _mysql_init@4 referenced in function "void __cdecl SQLConnect(void)" (?SQLConnect@@YAXXZ)
+DB.obj : error LNK2019: unresolved external symbol _mysql_real_connect@32 referenced in function "void __cdecl SQLConnect(void)" (?SQLConnect@@YAXXZ)
+C:\Program Files\MySQL\MySQL Server 8.0\lib\libmysql.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\jkoba\OneDrive - Shenkar College\Documents\לימודים\שנה ב'\סמסטר ב\מערכות קבצים ומסדי נתונים\עבודת הגשה במקום מבחן\Model & Me\SQLBookProj\Debug\SQLBookProj.exe : fatal error LNK1120: 3 unresolved externals

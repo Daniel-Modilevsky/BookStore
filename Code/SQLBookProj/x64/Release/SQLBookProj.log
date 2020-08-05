@@ -1,0 +1,10 @@
+﻿  DB.cpp
+  Main.cpp
+C:\Users\jkoba\OneDrive - Shenkar College\Documents\לימודים\שנה ב'\סמסטר ב\מערכות קבצים ומסדי נתונים\עבודת הגשה במקום מבחן\Model & Me\SQLBookProj\SQLBookProj\Main.cpp(53,27): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\jkoba\OneDrive - Shenkar College\Documents\לימודים\שנה ב'\סמסטר ב\מערכות קבצים ומסדי נתונים\עבודת הגשה במקום מבחן\Model & Me\SQLBookProj\SQLBookProj\Main.cpp(84,33): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\jkoba\OneDrive - Shenkar College\Documents\לימודים\שנה ב'\סמסטר ב\מערכות קבצים ומסדי נתונים\עבודת הגשה במקום מבחן\Model & Me\SQLBookProj\SQLBookProj\DB.cpp(147): warning C4715: 'MySQL::CheckUserNameAndPass': not all control paths return a value
+  All 201 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SQLBookProj.vcxproj -> C:\Users\jkoba\OneDrive - Shenkar College\Documents\לימודים\שנה ב'\סמסטר ב\מערכות קבצים ומסדי נתונים\עבודת הגשה במקום מבחן\Model & Me\SQLBookProj\x64\Release\SQLBookProj.exe
